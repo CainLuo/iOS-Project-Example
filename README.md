@@ -22,7 +22,7 @@
 
 **文章地址:** [玩转iOS开发：iOS中的GCD开发(一)](https://cainrun.github.io/15018603425788.html)
 
-**工程名: **GCD-Example
+**工程名:** GCD-Example
 
 **文章地址:** [玩转iOS开发：iOS中的GCD开发(二)](https://cainrun.github.io/15019074509183.html)
 
