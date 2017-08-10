@@ -7,6 +7,7 @@
 //
 
 #import "RunLoopController.h"
+#import <mach/message.h>
 
 @interface RunLoopController ()
 
@@ -17,7 +18,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    [self loop];
+//    [self loop];
 }
 
 - (void)loop {
@@ -27,6 +28,7 @@
     do {
         
         NSLog(@"执行任务");
+
 
     } while (run);
 }
