@@ -18,7 +18,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-//    [self loop];
+    [self loop];
 }
 
 - (void)loop {
@@ -29,6 +29,7 @@
         
         NSLog(@"执行任务");
 
+        run = NO;
 
     } while (run);
 }
