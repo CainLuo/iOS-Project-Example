@@ -12,4 +12,6 @@
 
 @property (nonatomic, copy) NSString *name;
 
+- (void)httpRequest;
+
 @end

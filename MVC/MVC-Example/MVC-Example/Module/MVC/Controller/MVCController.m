@@ -33,7 +33,7 @@
         
         _mvcModel = [[MVCModel alloc] init];
         
-        _mvcModel.name = @"小明";
+        [_mvcModel httpRequest];
     }
     
     return _mvcModel;

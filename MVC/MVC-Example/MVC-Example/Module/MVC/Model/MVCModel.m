@@ -10,4 +10,9 @@
 
 @implementation MVCModel
 
+- (void)httpRequest {
+    
+    self.name = @"小明";
+}
+
 @end
