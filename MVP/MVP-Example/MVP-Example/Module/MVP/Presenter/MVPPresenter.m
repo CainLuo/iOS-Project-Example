@@ -10,7 +10,7 @@
 
 @interface MVPPresenter ()
 
-@property (nonatomic, strong) MVPController *mvpController;
+@property (nonatomic, weak) MVPController *mvpController;
 
 @end
 

@@ -11,7 +11,7 @@
 
 @interface MVVMViewModel ()
 
-@property (nonatomic, strong) MVVMController *mvvmController;
+@property (nonatomic, weak) MVVMController *mvvmController;
 
 @property (nonatomic, strong) MVVMModel *baseModel;
 
