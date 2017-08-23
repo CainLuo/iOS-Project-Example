@@ -79,3 +79,25 @@
 **工程名:** MVP
 
 **文章地址:** [玩转iOS开发：iOS架构之MVP](https://cainrun.github.io/15027619777892.html)
+
+
+
+## MVVM架构
+
+**工程名:** MVVM
+
+**文章地址:** [玩转iOS开发：iOS架构之MVVM](https://cainrun.github.io/15028047079567.html)
+
+
+
+## RunTime
+
+**工程名:** RunTime
+
+**文章地址:**
+
+[玩转iOS开发：iOS开发中的装逼技术 - RunTime(一)](https://cainrun.github.io/15033286127687.html)
+
+[玩转iOS开发：iOS开发中的装逼技术 - RunTime(二)](https://cainrun.github.io/15034036545472.html)
+
+[玩转iOS开发：iOS开发中的装逼技术 - RunTime(三)](https://cainrun.github.io/15034954202343.html)
