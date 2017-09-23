@@ -17,6 +17,7 @@
 		A4D7BF551F4B1C7500C67BCF /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4D7BF501F4B1C7500C67BCF /* Info.plist */; };
 		A4D7BF5B1F4B1D9A00C67BCF /* RunTimeController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4D7BF5A1F4B1D9A00C67BCF /* RunTimeController.m */; };
 		A4D7BF5F1F4B1E5700C67BCF /* RunTimeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = A4D7BF5E1F4B1E5700C67BCF /* RunTimeModel.m */; };
+		A4EB80111F756CBB00CA8B68 /* RunTimeModel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A4EB80101F756CBB00CA8B68 /* RunTimeModel.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		A4D7BF5A1F4B1D9A00C67BCF /* RunTimeController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RunTimeController.m; sourceTree = "<group>"; };
 		A4D7BF5D1F4B1E5700C67BCF /* RunTimeModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RunTimeModel.h; sourceTree = "<group>"; };
 		A4D7BF5E1F4B1E5700C67BCF /* RunTimeModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RunTimeModel.m; sourceTree = "<group>"; };
+		A4EB80101F756CBB00CA8B68 /* RunTimeModel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RunTimeModel.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -188,6 +190,7 @@
 		A4D7BF5C1F4B1E4D00C67BCF /* RunTimeModel */ = {
 			isa = PBXGroup;
 			children = (
+				A4EB80101F756CBB00CA8B68 /* RunTimeModel.cpp */,
 				A4D7BF5D1F4B1E5700C67BCF /* RunTimeModel.h */,
 				A4D7BF5E1F4B1E5700C67BCF /* RunTimeModel.m */,
 			);
@@ -332,6 +335,7 @@
 				A4D7BF5B1F4B1D9A00C67BCF /* RunTimeController.m in Sources */,
 				A4D7BF511F4B1C7500C67BCF /* AppDelegate.m in Sources */,
 				A4D7BF5F1F4B1E5700C67BCF /* RunTimeModel.m in Sources */,
+				A4EB80111F756CBB00CA8B68 /* RunTimeModel.cpp in Sources */,
 				A4D7BF161F4B1C4F00C67BCF /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
